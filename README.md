@@ -33,7 +33,7 @@ These features collectively address significant communication challenges, offeri
 ![user flow](https://github.com/sahil4430/SilentVoice/blob/master/src/assets/Screenshot%202024-08-01%20203607.png)
 
 ### Mockup
-![SilentVoice](https://github.com/user-attachments/assets/124281cc-e912-47fa-8d5e-450a2eb17a6f)
+![SilentVoice](https://github.com/sahil4430/SilentVoice/blob/master/src/assets/Frame%202.png)
 
 
 ---- we are currently building thia idea. So kindly share you feedback if this idea finds you helpful !!
