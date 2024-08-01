@@ -30,10 +30,10 @@ These features collectively address significant communication challenges, offeri
  Gemini API for providing descriptions of images and summarization of messages<br/>
 
 ### User Flow
-![user flow](https://github.com/user-attachments/assets/97615a9c-1b51-4d30-8ca6-6b6db58fde7f)
+![user flow](https://github.com/sahil4430/SilentVoice/blob/master/src/assets/Screenshot%202024-08-01%20203607.png)
 
 ### Mockup
-![Orbcura Flutter App](https://github.com/user-attachments/assets/124281cc-e912-47fa-8d5e-450a2eb17a6f)
+![SilentVoice](https://github.com/user-attachments/assets/124281cc-e912-47fa-8d5e-450a2eb17a6f)
 
 
 ---- we are currently building thia idea. So kindly share you feedback if this idea finds you helpful !!
